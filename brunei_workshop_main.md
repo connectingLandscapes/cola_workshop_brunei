@@ -1,8 +1,7 @@
 # Workshop
 ## Brunei, May 20th 2024
 
-##### *Scan this code*
-![QRcode](https://github.com/connectingLandscapes/cola/blob/main/workshops/qr_brunei-workshop-1024.png)
+
 
 
 # Agenda
