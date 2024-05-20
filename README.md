@@ -14,10 +14,10 @@
 **Step 2:** 
 - Follow the next steps: Tutorial or slides [here] (https://github.com/connectingLandscapes/cola_workshop_brunei/blob/main/pdf.pdf)
 - Be sure to create at least one layer of:
-+ a) Surface resistance
-+ b) Points
-+ c) Resistance kernels
-+   d) Corridors
+++ *a) Surface resistance*
++ *b) Points*
++ *c) Resistance kernels*
++   *d) Corridors*
 
 **Step 3:** 
   - Use this survey to give us feedback on the DSS: (https://forms.gle/RnhJSgLn9R7o3VYV9)
