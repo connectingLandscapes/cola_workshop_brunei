@@ -8,7 +8,7 @@
 # Practical session agenda
 
 **Step 1:** Tell us about yourself
-- Fill out this survey to tell us about yourselves: (https://forms.gle/7m112X5GsrjGUuFT9)
+- Fill out this survey to tell us about yourselves: (https://forms.gle/shQixpbBuxLpX3C78)
 
 
 **Step 2:** 
