@@ -12,7 +12,7 @@
 
 
 **Step 2:** 
-- Follow the next steps: Tutorial or slides [here] (https://github.com/connectingLandscapes/cola_workshop_brunei/blob/main/pdf.pdf)
+- Follow the next steps: Tutorial or slides [here](https://docs.google.com/presentation/d/1VvDP-xnQBq_11OqGO_cignf30NjNIpiK47kwloQH66w/edit?usp=sharing)
 - Be sure to create at least one layer of:
   
 + *a) Surface resistance*
