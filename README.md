@@ -14,7 +14,8 @@
 **Step 2:** 
 - Follow the next steps: Tutorial or slides [here] (https://github.com/connectingLandscapes/cola_workshop_brunei/blob/main/pdf.pdf)
 - Be sure to create at least one layer of:
-++ *a) Surface resistance*
+  
++ *a) Surface resistance*
 + *b) Points*
 + *c) Resistance kernels*
 +   *d) Corridors*
